@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mehrol/Portfolio-M/static/css/main.29277119.css",
-    "main.js": "/mehrol/Portfolio-M/static/js/main.283067f1.js",
-    "static/js/787.1ed0c42c.chunk.js": "/mehrol/Portfolio-M/static/js/787.1ed0c42c.chunk.js",
-    "static/media/project1.PNG": "/mehrol/Portfolio-M/static/media/project1.449fde13cca0dac44efb.PNG",
-    "static/media/banner-bg.png": "/mehrol/Portfolio-M/static/media/banner-bg.cc1273af450504afe755.png",
-    "static/media/shubham.jpg": "/mehrol/Portfolio-M/static/media/shubham.03e5cc3901b61cd18b42.jpg",
-    "index.html": "/mehrol/Portfolio-M/index.html",
-    "main.29277119.css.map": "/mehrol/Portfolio-M/static/css/main.29277119.css.map",
-    "main.283067f1.js.map": "/mehrol/Portfolio-M/static/js/main.283067f1.js.map",
-    "787.1ed0c42c.chunk.js.map": "/mehrol/Portfolio-M/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio-M/static/css/main.cd3d2ea9.css",
+    "main.js": "/Portfolio-M/static/js/main.f955436e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-M/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project1.PNG": "/Portfolio-M/static/media/project1.449fde13cca0dac44efb.PNG",
+    "static/media/banner-bg.png": "/Portfolio-M/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/shubham.jpg": "/Portfolio-M/static/media/shubham.03e5cc3901b61cd18b42.jpg",
+    "index.html": "/Portfolio-M/index.html",
+    "main.cd3d2ea9.css.map": "/Portfolio-M/static/css/main.cd3d2ea9.css.map",
+    "main.f955436e.js.map": "/Portfolio-M/static/js/main.f955436e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-M/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29277119.css",
-    "static/js/main.283067f1.js"
+    "static/css/main.cd3d2ea9.css",
+    "static/js/main.f955436e.js"
   ]
 }
